@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\WPF\Lab1.3\task3\task3\bin\Debug\task3.exe.config
+C:\Users\admin\Desktop\WPF\Lab1.3\task3\task3\bin\Debug\task3.exe
+C:\Users\admin\Desktop\WPF\Lab1.3\task3\task3\bin\Debug\task3.pdb
+C:\Users\admin\Desktop\WPF\Lab1.3\task3\task3\obj\Debug\task3.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\WPF\Lab1.3\task3\task3\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\WPF\Lab1.3\task3\task3\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\WPF\Lab1.3\task3\task3\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\WPF\Lab1.3\task3\task3\obj\Debug\task3_MarkupCompile.cache
+C:\Users\admin\Desktop\WPF\Lab1.3\task3\task3\obj\Debug\task3.g.resources
+C:\Users\admin\Desktop\WPF\Lab1.3\task3\task3\obj\Debug\task3.Properties.Resources.resources
+C:\Users\admin\Desktop\WPF\Lab1.3\task3\task3\obj\Debug\task3.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\WPF\Lab1.3\task3\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\WPF\Lab1.3\task3\task3\obj\Debug\task3.exe
+C:\Users\admin\Desktop\WPF\Lab1.3\task3\task3\obj\Debug\task3.pdb

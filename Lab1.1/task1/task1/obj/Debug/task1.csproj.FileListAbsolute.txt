@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\WPF\Lab1.1\task1\task1\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\WPF\Lab1.1\task1\task1\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\WPF\Lab1.1\task1\task1\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\WPF\Lab1.1\task1\task1\obj\Debug\task1_MarkupCompile.cache
+C:\Users\admin\Desktop\WPF\Lab1.1\task1\task1\obj\Debug\task1.g.resources
+C:\Users\admin\Desktop\WPF\Lab1.1\task1\task1\obj\Debug\task1.Properties.Resources.resources
+C:\Users\admin\Desktop\WPF\Lab1.1\task1\task1\obj\Debug\task1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\WPF\Lab1.1\task1\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\WPF\Lab1.1\task1\task1\bin\Debug\task1.exe.config
+C:\Users\admin\Desktop\WPF\Lab1.1\task1\task1\bin\Debug\task1.exe
+C:\Users\admin\Desktop\WPF\Lab1.1\task1\task1\bin\Debug\task1.pdb
+C:\Users\admin\Desktop\WPF\Lab1.1\task1\task1\obj\Debug\task1.exe
+C:\Users\admin\Desktop\WPF\Lab1.1\task1\task1\obj\Debug\task1.pdb
