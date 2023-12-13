@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\WPF\Lab1.5\task5\task5\bin\Debug\task5.exe.config
+C:\Users\admin\Desktop\WPF\Lab1.5\task5\task5\bin\Debug\task5.exe
+C:\Users\admin\Desktop\WPF\Lab1.5\task5\task5\bin\Debug\task5.pdb
+C:\Users\admin\Desktop\WPF\Lab1.5\task5\task5\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\WPF\Lab1.5\task5\task5\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\WPF\Lab1.5\task5\task5\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\WPF\Lab1.5\task5\task5\obj\Debug\task5_MarkupCompile.cache
+C:\Users\admin\Desktop\WPF\Lab1.5\task5\task5\obj\Debug\task5.g.resources
+C:\Users\admin\Desktop\WPF\Lab1.5\task5\task5\obj\Debug\task5.Properties.Resources.resources
+C:\Users\admin\Desktop\WPF\Lab1.5\task5\task5\obj\Debug\task5.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\WPF\Lab1.5\task5\task5\obj\Debug\task5.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\WPF\Lab1.5\task5\task5\obj\Debug\task5.exe
+C:\Users\admin\Desktop\WPF\Lab1.5\task5\task5\obj\Debug\task5.pdb

@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\WPF\Lab1.4\task4\task4\bin\Debug\task4.exe.config
+C:\Users\admin\Desktop\WPF\Lab1.4\task4\task4\bin\Debug\task4.exe
+C:\Users\admin\Desktop\WPF\Lab1.4\task4\task4\bin\Debug\task4.pdb
+C:\Users\admin\Desktop\WPF\Lab1.4\task4\task4\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\WPF\Lab1.4\task4\task4\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\WPF\Lab1.4\task4\task4\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\WPF\Lab1.4\task4\task4\obj\Debug\task4_MarkupCompile.cache
+C:\Users\admin\Desktop\WPF\Lab1.4\task4\task4\obj\Debug\task4.g.resources
+C:\Users\admin\Desktop\WPF\Lab1.4\task4\task4\obj\Debug\task4.Properties.Resources.resources
+C:\Users\admin\Desktop\WPF\Lab1.4\task4\task4\obj\Debug\task4.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\WPF\Lab1.4\task4\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\WPF\Lab1.4\task4\task4\obj\Debug\task4.exe
+C:\Users\admin\Desktop\WPF\Lab1.4\task4\task4\obj\Debug\task4.pdb
